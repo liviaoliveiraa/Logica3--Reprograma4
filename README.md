@@ -34,7 +34,7 @@ Me recomenda livros pra ler? Deverá listar livros que já foram lidos e que sã
     npm i nodemoon
 
 ## Autora
-<p>Made with :purple_heart: by [Lívia Oliveira](https://www.linkedin.com/in/l%C3%ADvia-de-oliveira-almeida/)</p>
+<p>Made with :purple_heart: by [Lívia Oliveira](https://www.linkedin.com/in/lívia-de-oliveira-almeida/)</p>
 
 
 
